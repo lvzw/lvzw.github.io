@@ -99,14 +99,13 @@ head:
 navbar:
   # Navigation menu items
   menu:
-
-  # Links to be shown on the right of the navigation bar
-  links:
     首页: "/"
     存档: "/archives"
     分类: "/categories"
     关于: "/about"
     Tags: "/tags"
+  # Links to be shown on the right of the navigation bar
+  links:
     Visit on GitHub:
       icon: fab fa-github
       url: "https://github.com/lvzw"
